@@ -1,8 +1,5 @@
 # ShortcutToolbox: Privacy policy
-
-Welcome to the ShortcutToolbox app for Android!
-
-This is an open source Android app developed by HH-69. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
+This is privay policy for android app developed by HH-69. The app is available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
