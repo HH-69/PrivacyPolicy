@@ -19,6 +19,6 @@ The list of permissions required by the app:
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
-Yours sincerely,
-HH-69
-pacupacu6969@gmail.com
+Yours sincerely,  
+HH-69.  
+pacupacu6969@gmail.com.  
