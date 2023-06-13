@@ -11,11 +11,10 @@ The list of permissions required by the app:
 
 | Permission  | Why it is required |
 | ------------- | ------------- |
-| android.permission.POST_NOTIFICATIONS | Needed for creating notification.Permission automatically granted by the system; can't be revoked by user. |
-| android.permission.BIND_ACCESSIBILITY_SERVICE  | Needed for access function such as open power menu, control volume and etc  |
+| android.permission.BIND_ACCESSIBILITY_SERVICE  | Needed for access function such as open power menu, control volume and lock the screen  |
 | android.permission.FOREGROUND_SERVICE | Enables the app to create foreground services. Permission automatically granted by the system; can't be revoked by user. |
 | android.permission.RECEIVE_BOOT_COMPLETED | When your device restarts, app will automatic start. If you dont want auto start function, just disable inside app. |
-| android.permission.WAKE_LOCK | Needed for keep cpu alive.Permission automatically granted by the system; can't be revoked by user. |
+| android.permission.WRITE_SETTINGS | Needed to modify system setting.In this app is use to change screen brigthness. |
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
